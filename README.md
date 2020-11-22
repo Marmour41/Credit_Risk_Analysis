@@ -13,7 +13,7 @@ The purpose of this analsyis was to assesss credit risk using machine learning m
 - Combination (Over and Under) Sampling - SMOTEENN
     - For the [SMOTEENN Method](Module-17-Challenge-Resources/images/smoteenn.png), the precision values were once again 0.01 and 1. The recall values were 0.72 for high-risk and 0.57 for low-risk. The balanced accuracy score was 0.64. This algorithm has similar results to the over and undersampling methods.  
 - Ensemble Classifiers
-    - For the [Balanced Random Forest Classifier](Module-17-Challenge-Resources/imgaes/balance_random_forest.png), the precision score for high-risk is 0.03, and 1 for low-risk. The recall scores were 0.70 for high-risk and 0.87 for low-risk. The balanced accuracy score was 0.79. 
+    - For the [Balanced Random Forest Classifier](Module-17-Challenge-Resources/images/balance_random_forest.png), the precision score for high-risk is 0.03, and 1 for low-risk. The recall scores were 0.70 for high-risk and 0.87 for low-risk. The balanced accuracy score was 0.79. 
 
     - For the [Easy Ensemble Classifier](Module-17-Challenge-Resources/images/easy_ensemble.png), the precision score for high-risk and low-risk were 0.09 and 1, respectively. The recall scores were 0.92 for high-risk and 0.94 for low-risk. The balanced accuracy score was 0.93.
 
